@@ -1,0 +1,13 @@
+[2024-05-26 01:28:22,591] [main] INFO  com.wishwzp.util.ConfigManager - 当前程序运行配置文件：diary-dev.properties
+[2024-05-26 01:28:41,578] [main] INFO  com.wishwzp.util.ConfigManager - 当前程序运行配置文件：diary-dev.properties
+[2024-05-26 01:28:57,650] [main] INFO  com.wishwzp.util.ConfigManager - 当前程序运行配置文件：diary-dev.properties
+[2024-05-26 01:29:44,992] [main] INFO  com.wishwzp.util.ConfigManager - environment：null
+[2024-05-26 01:29:44,992] [main] INFO  com.wishwzp.util.ConfigManager - 当前程序运行配置文件：diary-dev.properties
+[2024-05-26 01:49:23,984] [main] DEBUG com.wishwzp.util.PropertiesUtil - 当前环境：pro
+[2024-05-26 01:49:23,984] [main] DEBUG com.wishwzp.util.PropertiesUtil - 当前环境：pro
+[2024-05-26 01:49:23,984] [main] DEBUG com.wishwzp.util.PropertiesUtil - 当前环境：pro
+[2024-05-26 01:49:23,984] [main] DEBUG com.wishwzp.util.PropertiesUtil - 当前环境：pro
+[2024-05-26 01:51:16,854] [main] DEBUG com.wishwzp.util.PropertiesUtil - 当前环境：pro
+[2024-05-26 01:51:16,854] [main] DEBUG com.wishwzp.util.PropertiesUtil - 当前环境：pro
+[2024-05-26 01:51:16,854] [main] DEBUG com.wishwzp.util.PropertiesUtil - 当前环境：pro
+[2024-05-26 01:51:16,854] [main] DEBUG com.wishwzp.util.PropertiesUtil - 当前环境：pro
